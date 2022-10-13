@@ -3,7 +3,7 @@
 
 [![Python application](https://github.com/vicsotber/decide/actions/workflows/django.yml/badge.svg)](https://github.com/vicsotber/decide/actions/workflows/django.yml)
 
-UN CAMBIO!
+UN CAMBIO...!
 Plataforma voto electrónico educativa
 =====================================
 
